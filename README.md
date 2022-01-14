@@ -1,4 +1,4 @@
-# TheCore-SignalCode-Solutions
-Solutions of "The Core" Part at Signal Code
+# Arcade-SignalCode-Solutions
+Solutions of Intro and The Core of Arcade SignalCode
 ---------------------------------------------------
-full 162/162 solutions of The Core 
+
